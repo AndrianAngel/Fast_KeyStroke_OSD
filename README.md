@@ -151,18 +151,20 @@ ___
 | Open Custom Color Settings | `Alt + F3` |
 
 All hotkeys are fully customizable from the Settings panel.
-___
+---
 
-### 🔰 DOWNLOAD
+### 🔰 Download
 
-- **Fast_KeyStroke_OSD_26_08_12_V1.1.3.7_X64.exe** — Standalone compiled executable, ready to run.
-- **Fast_KeyStroke_OSD_26_08_12_V1.1.3.7_X64.zip** — Zipped package containing the executable and required files.
+> **Tip:** Grab **`AIO_Fast_KeyStroke_OSD_26_08_12_V1.1.3.7.zip`** — it's the all-in-one package with the `.exe`, the `.zip`, and both sound files (`CSound.wav` + `keytyping.wav`) bundled together, so you don't need to download anything separately.
 
-### 🎙️ SOUND FILES
+| 📂 File | Description |
+|---|---|
+| ** ✔️AIO_Fast_KeyStroke_OSD_26_08_12_V1.1.3.7.zip** | ⭐ All-in-one package — exe, zip, and sounds included |
+| Fast_KeyStroke_OSD_26_08_12_V1.1.3.7_X64.exe | Standalone compiled executable |
+| Fast_KeyStroke_OSD_26_08_12_V1.1.3.7_X64.zip | Zipped package (exe + required files) |
+| 🎙️ CSound.wav | Mouse click sound |
+| 🎙️ keytyping.wav | Keyboard sound |
 
-- **CSound.wav** — Sound effect played on mouse click.
-- **keytyping.wav** — Sound effect played on keystroke.
-
-___
+---
 
 Copyright: AndrianAngel (Github) ♥️ — All rights reserved.
