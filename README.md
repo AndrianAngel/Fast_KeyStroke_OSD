@@ -15,8 +15,8 @@ ___
   <img src="Images/A1.png" width="45%" />
 </p>
 
-**A** — Main settings panel with live drag preview, letting you position the OSD window anywhere on screen and see changes instantly.
-**A1** — Main settings panel using preset position options (Top, Bottom, Left, Right, corners, Center) for quick, snap-to placement.
+- Pic Left: Main settings panel with live drag preview, letting you position the OSD window anywhere on screen and see changes instantly.
+- Pic Right: Main settings panel using preset position options (Top, Bottom, Left, Right, corners, Center) for quick, snap-to placement.
 ___
 
 ## 🚦 CUSTOM OSD COLOR SETTING & CUSTOM OSD COLOR SETTING + POPUP
@@ -26,8 +26,8 @@ ___
   <img src="Images/A4.png" width="45%" />
 </p>
 
-**A2** — Custom OSD color settings panel, allowing background, font, and border colors to be assigned per key group.
-**A4** — Custom OSD color settings shown together with the color popup open, for fine-tuning colors on the fly.
+- Custom OSD color settings panel, allowing background, font, and border colors to be assigned per key group.
+- Custom OSD color settings shown together with the color popup open, for fine-tuning colors on the fly.
 ___
 
 ## 🖊️ COLOR POPUP + PICKER
@@ -40,7 +40,7 @@ ___
 A dedicated color picker popup for selecting precise background, font, and border colors for each custom key group.
 ___
 
-## ✔️ TRAY MENU & OSD EXAMPLES
+## ⭐ TRAY MENU & OSD EXAMPLES
 
 <p float="left">
   <img src="Images/A5.png" width="45%" />
