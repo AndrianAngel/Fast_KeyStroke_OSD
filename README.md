@@ -159,7 +159,7 @@ All hotkeys are fully customizable from the Settings panel.
 
 | 📂 File | Description |
 |---|---|
-| ** ✔️AIO_Fast_KeyStroke_OSD_26_08_12_V1.1.3.7.zip** | ⭐ All-in-one package — exe, zip, and sounds included |
+| **✔️AIO_Fast_KeyStroke_OSD_26_08_12_V1.1.3.7.zip** | ⭐ All-in-one package — exe, zip, and sounds included |
 | Fast_KeyStroke_OSD_26_08_12_V1.1.3.7_X64.exe | Standalone compiled executable |
 | Fast_KeyStroke_OSD_26_08_12_V1.1.3.7_X64.zip | Zipped package (exe + required files) |
 | 🎙️ CSound.wav | Mouse click sound |
